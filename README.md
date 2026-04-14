@@ -7,13 +7,6 @@
 
 https://ap-south-1.console.aws.amazon.com/s3/upload/netflixdataset-saptarshi?region=ap-south-1
 
-Snowflake-
-Sap@1234567890
-Sap
-
-AWS- 17,
-Sap@43210
-
 CONNECT SNF TO AWS
 
 EXTERNAL 7 STAGE, STORAGE INTEGRATION
@@ -21,11 +14,6 @@ EXTERNAL 7 STAGE, STORAGE INTEGRATION
 
 
 Stored in which .dbt root
-
-
-
-
-
 
 2. INITCAP(...)
 This stands for Initial Capitalization. It transforms the string so that the first letter of every word is uppercase and the rest are lowercase.
